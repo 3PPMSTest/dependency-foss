@@ -7,10 +7,10 @@
 
 	<groupId>ericsson</groupId>
 	<artifactId>dependecny-foss</artifactId>
-	<version>0.0.1</version>
+	<version>1.2</version>
 	<packaging>jar</packaging>
 
-	<name>dependecny-foss</name>
+	<name>${project.artifactId}</name>
 	<url>http://www.example.com</url>
 
 	<properties>
